@@ -4,7 +4,9 @@
 
 Lambda function which:
     👉 receive your html 
+    
     👉 run the browser (puppeteer only for now) 
+    
     👉 return the screenshot.
     
 Api has only one route `/screenshot.png`
