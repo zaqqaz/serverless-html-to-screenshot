@@ -6,7 +6,7 @@ Lambda function which:
 
     👉 receive your html 
     
-    👉 run the browser (puppeteer only for now) 
+    👉 run the browser (puppeteer only yet) 
     
     👉 return the screenshot.
     
